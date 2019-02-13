@@ -1,0 +1,4 @@
+Class ExampleException{
+	Public 
+
+}
